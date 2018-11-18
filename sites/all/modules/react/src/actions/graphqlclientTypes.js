@@ -1,0 +1,1 @@
+export const CREATE_GRAPHQL = 'CREATE_GRAPHQL';

@@ -1,0 +1,165 @@
+.character {
+  clear: both;
+  overflow: hidden;
+  margin: 1em 0;
+  padding: 1em;
+  -webkit-box-shadow: 0px 0px 11px 0px #a1a1a1;
+  box-shadow: 0px 0px 11px 0px #a1a1a1;
+  .api-source-drupal {
+    float: right;
+    font-size: 14px;
+  }
+  .api-source-marvel {
+    background: purple;
+    font-size: 14px;
+    float: right;
+    margin-top: -2px;
+  }
+  .row {
+    padding-bottom: 20px;
+  }
+  .col {
+    width: 70%;
+    &.col-image {
+      width: 30%;
+      img {
+        width: 100%;
+      }
+    }
+    float: left;
+    box-sizing: border-box;
+    padding: 10px;
+    .label {
+      display: block;
+      font-size: 100%;
+      margin-bottom: 1px;
+    }
+    .image {
+      text-align: center;
+    }
+  }
+}
+
+.comic-form-wrapper {
+  clear: both;
+  margin: 1em 0;
+  padding: 1em;
+  -webkit-box-shadow: 0px 0px 11px 0px #a1a1a1;
+  box-shadow: 0px 0px 11px 0px #a1a1a1;
+  .label {
+    font-size: 100%;
+    margin: 4px 0;
+  }
+}
+
+.villains,
+.comics {
+  clear: both;
+  .label {
+    display: block;
+  }
+  .row.hide {
+    display: none;
+  }
+  p {
+    margin: 0;
+  }
+}
+
+.comic {
+  overflow: hidden;
+  padding: 3px;
+  &.active {
+    background: #efefef;
+    border-top:1px solid white;
+  }
+  a {
+    display: block;
+  }
+  a:hover {
+    background: #efefef;
+  }
+  .row {
+    padding: 10px;
+  }
+}
+
+.messages {
+  position: fixed;
+  background: rgba(0, 0, 0, .6);
+  top: 0;
+  left: 0;
+  height: 100vh;
+  width: 100vw;
+  .message-inner {
+    background: white;
+    position: fixed;
+    padding: 50px;
+    width: 50vw;
+    left: 25vw;
+    top: 40vh;
+    text-align: center;
+  }
+}
+
+.preloader-1 {
+  margin: 30px auto 0;
+  padding-bottom: 50px;
+  text-align: center;
+  height: 12px;
+
+  > div {
+    color: #000;
+    margin: 5px 0;
+    text-transform: uppercase;
+    font-size: 12px;
+    letter-spacing: 2px;
+  }
+
+  .line {
+    width: 30px;
+    height: 20px;
+    background: #000;
+    margin: 0 1px;
+    display: inline-block;
+    animation: opacity-1 1000ms infinite ease-in-out;
+  }
+
+  .line-1 { animation-delay: 800ms; }
+  .line-2 { animation-delay: 600ms; }
+  .line-3 { animation-delay: 400ms; }
+  .line-4 { animation-delay: 200ms; }
+  .line-6 { animation-delay: 200ms; }
+  .line-7 { animation-delay: 400ms; }
+  .line-8 { animation-delay: 600ms; }
+  .line-9 { animation-delay: 800ms; }
+}
+
+
+
+@keyframes opacity-1 {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@keyframes opacity-2 {
+  0% {
+    opacity: 1;
+    height: 15px;
+  }
+  50% {
+    opacity: 0;
+    height: 12px;
+  }
+  100% {
+    opacity: 1;
+    height: 15px;
+  }
+}

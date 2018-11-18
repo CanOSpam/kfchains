@@ -1,0 +1,125 @@
+@import url('//cdnjs.cloudflare.com/ajax/libs/foundation/6.4.3/css/foundation.min.css');
+@import url('//fonts.googleapis.com/css?family=Roboto:300,400,700');
+/////
+body {
+  font: 15px 'Roboto', Helvetica, Arial, sans-serif;
+  line-height: 1.4em;
+  color: #4d4d4d;
+  font-weight: 500;
+  background: rgb(233, 241, 244) url(../img/background.png?1) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover; // background: rgb(233, 241, 244) url(../img/background.png?1) right bottom no-repeat;
+}
+
+.nav-bar {
+  background: #000 url(../img/acquia-logo.png?1) right 0 no-repeat;
+  a {
+    color: #fff;
+    font-weight: 400;
+    padding: 1em .7em;
+    font-size: 110%;
+  }
+}
+
+.content-container {
+  padding: 15px;
+}
+
+h2 {
+  font-weight: 500;
+  font-size: 30px;
+  border-bottom: 1px dotted grey;
+  margin-bottom: 15px;
+  padding-bottom: 15px;
+}
+
+h4, h5 {
+  text-transform: capitalize;
+}
+
+.datetime {
+  color: #fff;
+  background: #6d7c82;
+  display: inline-block;
+  float: right;
+  margin: 5px;
+  padding: 3px 5.5px;
+  border-radius: 5px;
+}
+
+.boxy {
+  background: rgba(255, 255, 255, 0.9);
+  border: 2px solid #d3d3d3;
+  padding: 20px;
+  margin: 0;
+  border-radius: 3px;
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.img-refs {
+  max-width: 482px;
+  float: left;
+  display: block;
+  img {
+    float: left;
+    margin: 5px;
+    border: 1px solid grey;
+  }
+}
+
+// mark visual pieces from different locations
+span.api-source {
+  display: inline-block;
+  font-weight: 400;
+  font-size: 90%;
+  color: white;
+  padding: 2px 6px;
+  border-radius: 5px;
+}
+
+span.api-source-drupal {
+  background: darkgreen;
+  color: white;
+  border-radius: 5px;
+  padding: 2px 5px;
+  float: right;
+}
+
+span.api-source-graphql {
+  background: darkcyan;
+  color: white;
+  border-radius: 5px;
+  padding: 2px 5px;
+  float: right;
+}
+
+span.api-source-sales {
+  background: rgb(212, 96, 0);
+}
+
+a.btn {
+  border: 1px solid lightblue;
+  background: #28a745;
+  padding: 10px;
+  color: #fefefe;
+  cursor: pointer;
+  font-weight: bold;
+  -webkit-transition: all 0.5s;
+  transition: all 0.5s;
+  border-radius: 3px;
+}
+
+a.btn:hover {
+  background: #28aaaa;
+}
+
+a.btn-primary {
+  border: #28a745;
+}
+
+a.btn-secondary {
+  background: #28a;
+}

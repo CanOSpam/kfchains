@@ -1,0 +1,101 @@
+[{
+    "id": 1,
+    "name": "Thanos",
+    "age": 616,
+    "weight": 985,
+    "image": "https://i.annihil.us/u/prod/marvel/i/mg/6/00/537bc6a21256d.jpg",
+    "description": "The Mad Titan Thanos, a melancholy, brooding individual, consumed with the concept of death, sought out personal power and increased strength, endowing himself with cybernetic implants until he became more powerful than any of his brethren.",
+    "powers": "Thanos possesses the superhuman physiology of all Eternals, granting him superhuman strength, endurance, reflexes, and agility. His skin in nearly invulnerable, particulary against heat, cold, electricity, radiation, toxins, aging, and disease, and he can survive indefinitely without food or water even before his 'curse' from Death left him immortal, unable to die. His mind is also invulnerable to most forms of psychic attack, and can project a psionic blast of energy as well as blasts of plasma/cosmic energy from his eyes and hands.",
+    "first_appearance": "Iron Man #55 (1973)"
+  },
+  {
+    "id": 2,
+    "name": "Dr. Doom",
+    "age": 34,
+    "weight": 415,
+    "image": "https://i.annihil.us/u/prod/marvel/i/mg/9/60/537ba8e5a36c4.jpg",
+    "description": "Victor von Doom was born to the Zefiro travelers (Gypsies) Werner and Cynthia in Latveria, a small European country which grew out of Hungary and was ruled by King Vladimir Vassily Gonereo Tristian Mangegi Fortunov, Baron of Sabbat, Baron of Haasen, Baron of Krozi.",
+    "powers": "Doom can exchange minds with others. He possesses some mystical abilities, such as casting bolts of eldritch energy and invoking mystical entities (principalities) for additional support. While empowered by the Haazareth, his mystical powers were on a par with those of Dr. Strange.",
+    "first_appearance": "Fantastic Four #5 (1962)"
+  },
+  {
+    "id": 3,
+    "name": "Mystique",
+    "age": 28,
+    "weight": 120,
+    "image": "http://1.bp.blogspot.com/_qZTo96fnp8k/SwaMCzUh3_I/AAAAAAAABs4/PFvOTSdi-z0/s640/10352header_banner8651427.jpg",
+    "description": "Little is known about Mystique's past due to the fact that she can eliminate the outward signs of aging with her shape-changing power, and it's not known exactly how old she is. She apparently learned to use her shape-changing power at a very early age, for there is no evidence known to the public or the government that Raven Darkholme ever looked like anything but a normal human being. ",
+    "powers": "Mystique can psionically shift the atoms of her body to duplicate any humanoid of either sex, wearing any kind of clothing. She can precisely duplicate another person’s retina pattern, finger, palm and skin-pore patterns, and vocal cords. She can increase her volume, but not her mass. Mystique’s power grants her age retardation, increased healing, and immunity to drugs and poisons.",
+    "first_appearance": "(as Raven) Ms Marvel #16 (1978); (as Mystique) Ms. Marvel #18 (1978)"
+  },
+  {
+    "id": 4,
+    "name": "Ronan",
+    "age": 74,
+    "weight": 480,
+    "image": "https://i.annihil.us/u/prod/marvel/i/mg/c/10/537bcef223ec2.jpg",
+    "description": "Born a Kree on the planet Hala, Ronan joined the Accuser Corps and quickly ascended to the top of the ranks. As The Supreme Accuser, Ronan enforces the laws of the Kree Empire throughout the galaxy and frequently clashes with Earthâ€™s superheroes and other alien races.",
+    "powers": "Can currently adapt his body to survive any hostile environment. Strength-enhancing armor. Generate cold to put certain lifeforms into suspended animation. Render himself 'invisible'.",
+    "first_appearance": "Fantastic Four #65 (1967)"
+  },
+  {
+    "id": 5,
+    "name": "Ultron",
+    "age": 68,
+    "weight": 735,
+    "image": "https://i.annihil.us/u/prod/marvel/i/mg/9/a0/537bc7f6d5d23.jpg",
+    "description": "Arguably the greatest and certainly the most horrific creation of scientific genius Dr. Henry Pym, Ultron is a criminally insane rogue sentient robot dedicated to conquest and the extermination of humanity.",
+    "powers": "Ultron's abilities vary with each redesign, but typically include superhuman strength and durability, the power of flight, and various offensive weapons such as concussion blasters, radiation emitters and his 'encephalo-ray', which plunges its victims into a deathlike coma. ",
+    "first_appearance": "Avengers #54 (1968)"
+  },
+  {
+    "id": 6,
+    "name": "Medusa",
+    "age": 227,
+    "weight": 130,
+    "image": "https://i.annihil.us/u/prod/marvel/i/mg/3/40/537bb5668021d.jpg",
+    "description": "orn into the Inhumans' Royal Family, Medusa was raised as befits an elite Inhuman born and bred to be queen, including exposure to the mutagenic Terrigen Mists. When the Alpha Primitive worker race revolted, Medusa battled their leaders, the Trikon.",
+    "powers": "Medusa can control the rate of growth and movement of each strand of her tougher-than-steel hair individually. She maintains this control even when the hair has been cut from her head.",
+    "first_appearance": "Fantastic Four Vol. 1 #36 (1965)"
+  },
+  {
+    "id": 7,
+    "name": "Sabertooth",
+    "age": 201,
+    "weight": 483,
+    "image": "http://www.writeups.org/wp-content/uploads/Sabretooth-Sabertooth-Marvel-Comics-X-Men-Creed.jpg",
+    "description": "Creed was recruited into a top secret CIA covert ops unit known as Team X, with allies John Wraith, Logan (Wolverine), Silver Fox (whose death was a hoax) and David North (Agent Zero). On one mission, the psychopathic Sabretooth kills a crucial scientist during a battle against Russian supersoldier Omega Red.",
+    "powers": "Sabretooth's primary mutant power was an accelerated healing process that enabled him to regenerate damaged or destroyed areas of his anatomy with far greater efficiency than an ordinary human. Originally, the speed of Sabretooth's healing factor's was in proportion to the wound's severity; for example, he could fully recover from an ordinary gunshot wound within minutes or injuries as severe as a broken back and severed spine within days. ",
+    "first_appearance": "Iron Fist #14 (August 1977)"
+  },
+  {
+    "id": 8,
+    "name": "Loki",
+    "age": 593,
+    "weight": 525,
+    "image": "https://i.annihil.us/u/prod/marvel/i/mg/9/30/537bb3f94d3b0.jpg",
+    "description": "Loki is one of several powerful beings from the magical realm of Asgard, who have been worshipped as gods. Odin, once the ruler of the Asgardian gods, led his subjects in a war against their enemy, the frost giants from the land of Jotunheim (one of the nine worlds of Asgard).",
+    "powers": "Loki possesses physical abilities far superior to humans, an increased lifespan, superhuman strength (able to lift up to 50 tons), immune to terrestrial diseases, and resistant to conventional injury.",
+    "first_appearance": "Journey Into Mystery #112-113 & 115 (1965)"
+  },
+  {
+    "id": 9,
+    "name": "Juggernaut",
+    "age": 323,
+    "weight": 1900,
+    "image": "https://i.annihil.us/u/prod/marvel//universe3zx/images/2/23/Juggernaut02.jpg",
+    "description": "Cain Marko’s mother died when he was very young, leaving him to live a life of psychological and physical torment at the hands of his abusive father, atomic researcher Doctor Kurt Marko. Following the death of his colleague Doctor Brian Xavier, Kurt married Xavier's widow Sharon and he and Cain took up residence in the Xavier's Westchester mansion with Sharon and her young son, Charles.",
+    "powers": "The Juggernaut originally possessed untold mystical power which enhanced his strength to an unknown degree and made him a seemingly irresistible, unstoppable being. Once he began to walk in a given direction, no obstacle or force on Earth was able to stop him. ",
+    "first_appearance": "X-Men #12 (1965)"
+  },
+  {
+    "id": 10,
+    "name": "Lady Deathstrike",
+    "age": 31,
+    "weight": 121,
+    "image": "http://eldiariodelanena.com/wp-content/uploads/2016/05/villanas-de-c%C3%B3mics-1.jpg",
+    "description": "Yuriko Oyama was born in Osaka, Japan. Her father was Lord Dark Wind (Kenji Oyama), a Japanese crime lord and criminal scientist who created the process by which adamantium can be bonded to bone. Kenji was a former Japanese kamikaze pilot during World War II. His face was horribly scarred in a failed suicide attack on an American battleship. Feeling shamed by his failure decades earlier, he scarred the faces of Yuriko and her two brothers in a ritual design. Her two brothers would later die while in the service of their father.",
+    "powers": "Lady Deathstrike was transformed into a cyborg by Spiral and the Body Shop using alien technology of Mojo's dimension, with later modifications by Donald Pierce. She has superhuman strength, speed, stamina, durability, and agility. Deathstrike's skeleton has been artificially laced with molecules of adamantium, rendering her skeletal structure physically unbreakable. Later, in the pages of Uncanny X-Men, it was shown that Spiral used magic to infuse the metal into Deathstrike's body.",
+    "first_appearance": "Alpha Flight #33 (Apr 1986)"
+  }
+]

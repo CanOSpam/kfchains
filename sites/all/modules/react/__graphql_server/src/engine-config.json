@@ -1,0 +1,15 @@
+{
+  "engineConfig": {
+    "stores": [
+      {
+        "name": "publicResponseCache",
+        "inMemory": {
+          "cacheSize": 10485760
+        }
+      }
+    ],
+    "queryCache": {
+      "publicFullQueryStore": "publicResponseCache"
+    }
+  }
+}

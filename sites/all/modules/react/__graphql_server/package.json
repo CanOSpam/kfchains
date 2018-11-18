@@ -1,0 +1,32 @@
+{
+  "name": "graphql_demo",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node --require 'dotenv/config' --require 'babel-register' src/app.js"
+  },
+  "dependencies": {
+    "apollo-engine": "0.8.9",
+    "apollo-server-express": "^1.3.2",
+    "babel-plugin-transform-runtime": "^6.23.0",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-stage-0": "^6.24.1",
+    "body-parser": "^1.18.2",
+    "btoa": "^1.1.2",
+    "casual": "^1.5.19",
+    "cors": "^2.8.4",
+    "dotenv": "^4.0.0",
+    "express": "^4.16.2",
+    "graphql": "^0.12.3",
+    "graphql-modules": "^0.2.2",
+    "graphql-tools": "^2.16.0",
+    "node-fetch": "^1.7.3",
+    "node-fetch-oauth2": "github:steveworley/node-fetch-oauth2"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-plugin-inline-import": "^2.0.6",
+    "babel-preset-env": "^1.6.0"
+  }
+}

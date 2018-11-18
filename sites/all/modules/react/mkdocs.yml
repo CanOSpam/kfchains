@@ -1,0 +1,45 @@
+site_name: React Decoupled StarterKit
+
+repo_url: https://github.com/acquia-pso/decoupledkit-react
+site_description: 'A starterkit for headless workflows with Drupal, React, & GraphQL'
+theme: readthedocs
+strict: true
+
+markdown_extensions:
+  - toc:
+      permalink: True
+
+pages:
+  - Home: 'index.md'
+  - Getting started:
+    - Drupal: 'gettingstarted-drupal.md'
+    - GraphQL: 'gettingstarted-graphql.md'
+    - React: 'gettingstarted-react.md'
+  - Drupal Documentation:
+    - Drupal Overview: 'drupal.md'
+    - Drupal Content Model: 'drupal-contenttypes.md'
+    - Drupal API Settings: 'drupal-apisettings.md'
+    - Drupal OAuth Settings: 'drupal-oauth.md'
+    - Drupal API Consumers: 'drupal-consumer.md'
+    - Drupal API Roles: 'drupal-roles.md'
+  - GraphQL Documentation:
+    - GraphQL Overview: 'graphql.md'
+    - Architecture Overview: 'graphql-architecture.md'
+    - API & Local Data Sources: 'graphql-sources.md'
+    - Pokemon: 'graphql-pokemon.md'
+    - Marvel: 'graphql-marvel.md'
+    - Client: 'graphql-client.md'
+  - React Documentation:
+    - React Documentation: 'react.md'
+    - Architecture Overview: 'react-architecture.md'
+    - Drupal CRUD Operations: 'react-drupalcrud.md'
+    - Drupal GraphQL (single): 'react-graphqlsingle.md'
+    - Drupal GraphQL (multiple): 'react-graphqlmultiple.md'
+    - API Failover Techniques: 'react-apifailover.md'
+    - API Mocking Techniques: 'react-apimock.md'
+    - Chatbot: 'react-chatbot.md'
+  - React Slingshot Documentation:
+    - React Slingshot: 'react-slingshot/README.md'
+    - React Slingshot FAQ: 'react-slingshot/FAQ.md'
+    - React Slingshot Contributors: 'react-slingshot/CONTRIBUTORS.md'
+    - React Slingshot Contributing: 'react-slingshot/CONTRIBUTING.md'

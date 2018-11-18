@@ -1,0 +1,41 @@
+.villain {
+  border: 1px solid #add8e6;
+  padding: 5px;
+  margin-bottom: 25px;
+  -webkit-box-shadow: 0px 0px 11px 0px #a1a1a1;
+  box-shadow: 0px 0px 11px 0px #a1a1a1;
+  h4 a {
+    display: block;
+    background: #2f4f4f;
+    color: #fff;
+    padding: 4px 8px;
+    margin-bottom: 5px;
+    display: inline-block;
+    width: 100%;
+  }
+  .row {
+    display: inline-block;
+    width: 68%;
+    margin-left: 2%;
+    float: left;
+    margin-bottom: 20px;
+  }
+  .row-img {
+    display: inline-block;
+    width: 30%;
+    margin-left: 0;
+    margin-bottom: 0;
+  }
+  div.label {
+    width: 100%;
+    font-weight: 400;
+    font-size: 100%;
+    margin-bottom: 10px;
+    background: #efefef;
+    color: #000;
+  }
+  span.api-source-drupal {
+    float: right;
+    margin: 0 0 10px 0;
+  }
+}
